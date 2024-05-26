@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Elif Atci</h1>
-<h3 align="left">ISTQB® Certified Software Development Engineer in Test</h3>
+<h3 align="left">ISTQB® Certified Software Test Specialist</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
